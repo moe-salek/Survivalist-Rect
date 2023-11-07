@@ -1,3 +1,5 @@
+**UPDATE:** I created this project a long time ago when I was just starting out as a developer. I've held onto these old repositories as a reminder of my early programming experiences. Looking back, I feel a sense of satisfaction and fulfillment, and those memories continue to fuel my passion for programming.
+
 # Survivalist Rect
 A simple terminal / command-line game coded in Python :)
 
